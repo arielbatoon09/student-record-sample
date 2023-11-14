@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Update Firebase Config with your own
+```
+Go to src/fire/index.js then replace the const firebaseConfig = {}
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
